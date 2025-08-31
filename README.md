@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Waseem Nabi
+# Hi, I'm Waseem Nabi
 
 🎓 **Final Year Computer Engineering Student**  
 💡 **Aspiring Hardware Designer & AI Enthusiast**  
@@ -6,13 +6,13 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate Computer Engineering student with a deep interest in hardware-software co-design, AI, and deep learning. My journey revolves around bridging the gap between cutting-edge AI algorithms and efficient hardware, especially using FPGAs and Verilog.
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 🚀 VerilogAI - AI-Powered Verilog Assistant
+### VerilogAI - AI-Powered Verilog Assistant
 **A comprehensive AI assistant for hardware design and Verilog development**
 
 **Key Features:**

@@ -71,11 +71,7 @@ A cutting-edge hardware accelerator for real-time object detection using YOLO, d
 ---
 
 
-## 📊 GitHub Statistics
-
-![Waseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemnabi08&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemnabi08&layout=compact&theme=tokyonight)
+## Me and Github
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waseemnabi08&theme=tokyonight)
 

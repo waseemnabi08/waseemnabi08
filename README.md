@@ -73,21 +73,11 @@ A cutting-edge hardware accelerator for real-time object detection using YOLO, d
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/waseemnabi08">
-    <img src="https://github-readme-stats.vercel.app/api?username=waseemnabi08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Waseem's GitHub Stats" />
-  </a>
-  <br />
-  <a href="https://github.com/waseemnabi08">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemnabi08&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-  </a>
-  <br />
-  <a href="https://github.com/waseemnabi08">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waseemnabi08&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
+![Waseem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemnabi08&show_icons=true&theme=tokyonight&count_private=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemnabi08&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=waseemnabi08&theme=tokyonight)
 
 ## 🤝 Let's Connect
 

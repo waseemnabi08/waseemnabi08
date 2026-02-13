@@ -72,9 +72,20 @@ A cutting-edge hardware accelerator for real-time object detection using YOLO, d
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=waseemnabi08&show_icons=true&theme=tokyonight)
+<p>
+  <img align="left" alt="Waseem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=waseemnabi08&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waseemnabi08&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waseemnabi08&layout=compact&theme=tokyonight)
+<br clear="left"/>
+
+Notes & troubleshooting:
+- Make sure the `username` in the URL is correct (here: `waseemnabi08`).
+- If images don't show: try disabling adblockers/CSP or view the raw README on GitHub (some browsers block external images).
+- To include private contributions or better accuracy, add `&count_private=true&include_all_commits=true` as shown; for private data you may need to provide a `GH_TOKEN` or use the recommended setup in the github-readme-stats docs.
+- If the card still fails, try a simplified URL to check connectivity:
+  - `https://github-readme-stats.vercel.app/api?username=waseemnabi08&theme=tokyonight`
+- Alternate: use Shields (https://shields.io/) or other profile-card services as a fallback if vercel.app is blocked.
 
 ---
 
